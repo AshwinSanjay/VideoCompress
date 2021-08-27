@@ -32,7 +32,7 @@ A Telegram Video Compressor Bot By [𝗦𝘂𝘀𝗵𝗮𝗻𝘁𝗵 𝗕𝗼�
 ## Required Configs:
 * `SESSION_NAME` - Any name of session. Better keep default.
 * `TG_BOT_TOKEN` - Get this from [@BotFather](https://t.me/BotFather)
-* `LOG_CHANNEL` - Put Your Bot's Logs Channel's Username. For Help ask in [Support Group](https://t.me/linux_repo).
+* `LOG_CHANNEL` - Put Your Bot's Logs Channel's Username. For Help ask in [Support Group](https://t.me/joinchat/kxhQtBfvg4Q2YzY1).
 * `BOT_USERNAME` - Your Bot's Username which you send to [@BotFather](https://t.me/BotFather) while creating Bot. ***(Without `@` Before Username!!)***
 * `APP_ID` - Get this from my.telegram.org
 * `API_HASH` - Get this from my.telegram.org
@@ -40,7 +40,7 @@ A Telegram Video Compressor Bot By [𝗦𝘂𝘀𝗵𝗮𝗻𝘁𝗵 𝗕𝗼�
 * `AUTH_USERS` - Put your ID & other Sudo Users IDs. Separate with **Space**. Just for using [Admin Commands](https://github.com/ksprojects2/VideoCompress#admin-commands).
 
 ## Optional Configs:
-* `UPDATES_CHANNEL` - Put your Channel Username which you want to do Force Sub. But bot should be Admin in that channel. If got any error or not understand anything than ask in [Support Group](https://t.me/linux_repo).
+* `UPDATES_CHANNEL` - Put your Channel Username which you want to do Force Sub. But bot should be Admin in that channel. If got any error or not understand anything than ask in [Support Group](https://t.me/joinchat/kxhQtBfvg4Q2YzY1).
 * `COMMAND_EXEC` - `/exec` Command Handler.
 * `COMMAND_STATUS` - `/status` Command Handler.
 * `COMMAND_CANCEL` - `/cancel` Command Handler.
