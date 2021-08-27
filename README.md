@@ -15,10 +15,10 @@ A Telegram Video Compressor Bot By [𝗦𝘂𝘀𝗵𝗮𝗻𝘁𝗵 𝗕𝗼�
 * If you need more help to Deploy Feel Free to ask in [Support Group](https://t.me/joinchat/kxhQtBfvg4Q2YzY1).
 
 ### Demo Bot:
-<a href="https://t.me/VidCom_Robot"><img src="https://img.shields.io/badge/Demo-Telegram%20Bot-blue.svg?logo=telegram"></a>
+<a href="https://t.me/KSCOMPRESSORBOT"><img src="https://img.shields.io/badge/Demo-Telegram%20Bot-blue.svg?logo=telegram"></a>
 
 ### Demo Logs Channel:
-<a href="https://t.me/VideoCompressLogs"><img src="https://img.shields.io/badge/Demo-Bot%20Logs%20Channel-blue.svg?logo=telegram"></a>
+<a href="https://t.me/kscompressorbotlogs"><img src="https://img.shields.io/badge/Demo-Bot%20Logs%20Channel-blue.svg?logo=telegram"></a>
 
 ## Easy Deploy:
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ksprojects2/VideoCompress)
