@@ -2,7 +2,7 @@
 # VideoCompress
 
 
-A Telegram Video Compressor Bot By [@AbirHasan2005](https://t.me/linux_repo). **This bot works for all!** No need to define each user IDs to use bot. Also works in Group.
+A Telegram Video Compressor Bot By [𝗦𝘂𝘀𝗵𝗮𝗻𝘁𝗵 𝗕𝗼𝘁 𝗨𝗽𝗱𝗮𝘁𝗲𝘀](https://t.me/joinchat/kxhQtBfvg4Q2YzY1). **This bot works for all!** No need to define each user IDs to use bot. Also works in Group.
 
 ### Special Features:
 - Bot's Live Status on Channel
@@ -12,7 +12,7 @@ A Telegram Video Compressor Bot By [@AbirHasan2005](https://t.me/linux_repo). **
 	- Can Ban-Unban Manually
 	- Can see numbers users in DB
 
-* If you need more help to Deploy Feel Free to ask in [Support Group](https://t.me/linux_repo).
+* If you need more help to Deploy Feel Free to ask in [Support Group](https://t.me/joinchat/kxhQtBfvg4Q2YzY1).
 
 ### Demo Bot:
 <a href="https://t.me/VidCom_Robot"><img src="https://img.shields.io/badge/Demo-Telegram%20Bot-blue.svg?logo=telegram"></a>
@@ -27,7 +27,7 @@ A Telegram Video Compressor Bot By [@AbirHasan2005](https://t.me/linux_repo). **
 [![YouTube](https://img.shields.io/badge/YouTube-Video%20Tutorial-red?logo=youtube)](https://youtu.be/gMRsSqaUkio)
 
 ### Support Group:
-<a href="https://t.me/DevsZone"><img src="https://img.shields.io/badge/Telegram-Join%20Telegram%20Group-blue.svg?logo=telegram"></a>
+<a href="https://t.me/joinchat/kxhQtBfvg4Q2YzY1"><img src="https://img.shields.io/badge/Telegram-Join%20Telegram%20Group-blue.svg?logo=telegram"></a>
 
 ## Required Configs:
 * `SESSION_NAME` - Any name of session. Better keep default.
@@ -37,7 +37,7 @@ A Telegram Video Compressor Bot By [@AbirHasan2005](https://t.me/linux_repo). **
 * `APP_ID` - Get this from my.telegram.org
 * `API_HASH` - Get this from my.telegram.org
 * `DATABASE_URL` - Your MongoDB Database URL.
-* `AUTH_USERS` - Put your ID & other Sudo Users IDs. Separate with **Space**. Just for using [Admin Commands](https://github.com/AbirHasan2005/VideoCompress#admin-commands).
+* `AUTH_USERS` - Put your ID & other Sudo Users IDs. Separate with **Space**. Just for using [Admin Commands](https://github.com/ksprojects2/VideoCompress#admin-commands).
 
 ## Optional Configs:
 * `UPDATES_CHANNEL` - Put your Channel Username which you want to do Force Sub. But bot should be Admin in that channel. If got any error or not understand anything than ask in [Support Group](https://t.me/linux_repo).
@@ -66,19 +66,7 @@ banned_users - Show Banned Users
 exec - EXEC 🙄
 ```
 
-## Follow on:
-<p align="left">
-<a href="https://github.com/AbirHasan2005"><img src="https://img.shields.io/badge/GitHub-Follow%20on%20GitHub-inactive.svg?logo=github"></a>
-</p>
-<p align="left">
-<a href="https://twitter.com/AbirHasan2005"><img src="https://img.shields.io/badge/Twitter-Follow%20on%20Twitter-informational.svg?logo=twitter"></a>
-</p>
-<p align="left">
-<a href="https://facebook.com/AbirHasan2005"><img src="https://img.shields.io/badge/Facebook-Follow%20on%20Facebook-blue.svg?logo=facebook"></a>
-</p>
-<p align="left">
-<a href="https://instagram.com/AbirHasan2005"><img src="https://img.shields.io/badge/Instagram-Follow%20on%20Instagram-important.svg?logo=instagram"></a>
-</p>
+
 
 ### Credits:
 * [Jijinr](https://github.com/Jijinr)
