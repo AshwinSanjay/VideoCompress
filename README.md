@@ -24,7 +24,7 @@ A Telegram Video Compressor Bot By [𝗦𝘂𝘀𝗵𝗮𝗻𝘁𝗵 𝗕𝗼�
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ksprojects2/VideoCompress)
 
 #### Video Tutorial:
-[![YouTube](https://img.shields.io/badge/YouTube-Video%20Tutorial-red?logo=youtube)](https://youtu.be/gMRsSqaUkio)
+[![YouTube](https://img.shields.io/badge/YouTube-Video%20Tutorial-red?logo=youtube)](https://youtu.be/T5FT-pP6OP0)
 
 ### Support Group:
 <a href="https://t.me/joinchat/kxhQtBfvg4Q2YzY1"><img src="https://img.shields.io/badge/Telegram-Join%20Telegram%20Group-blue.svg?logo=telegram"></a>
