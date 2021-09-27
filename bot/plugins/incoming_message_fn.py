@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-# (c) Shrimadhav U K / Akshay C / @AbirHasan2005
+# (c) Shrimadhav U K / Akshay C / @AbirHasan2005 /AshwinSanjay
 
 # the logging things
 
@@ -46,7 +46,7 @@ from bot.helper_funcs.utils import (
     delete_downloads
 )
 
-LOGS_CHANNEL = -1001283278354
+LOGS_CHANNEL = -1001521925012
 db = Database(DATABASE_URL, SESSION_NAME)
 CURRENT_PROCESSES = {}
 CHAT_FLOOD = {}
@@ -84,7 +84,7 @@ async def incoming_start_message_f(bot, update):
             return
         except Exception:
             await message.reply_text(
-                text="Something went Wrong. Contact my [Support Group](https://t.me/joinchat/kxhQtBfvg4Q2YzY1).",
+                text="Something went Wrong. Contact my [Support Group](https://t.me/joinchat/kzzw-cX4fJIzOTI1).",
                 parse_mode="markdown",
                 disable_web_page_preview=True
             )
@@ -95,10 +95,10 @@ async def incoming_start_message_f(bot, update):
         reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton('Updates Channel', url='https://t.me/Sushanth_Bot_Updates')
+                    InlineKeyboardButton('Updates Channel', url='https://t.me/video_compresser_pro3_bot')
                 ],
                 [
-                    InlineKeyboardButton('Support Group', url='https://t.me/joinchat/kxhQtBfvg4Q2YzY1')
+                    InlineKeyboardButton('Support Group', url='https://t.me/joinchat/kzzw-cX4fJIzOTI1')
                 ]
             ]
         ),
@@ -138,7 +138,7 @@ async def incoming_compress_message_f(bot, update):
         except Exception:
             await bot.send_message(
                 chat_id=update.chat.id,
-                text="Something went Wrong. Contact my [Support Group](https://t.me/joinchat/kxhQtBfvg4Q2YzY1).",
+                text="Something went Wrong. Contact my [Support Group](https://t.me/joinchat/kzzw-cX4fJIzOTI1).",
                 parse_mode="markdown",
                 disable_web_page_preview=True
             )
